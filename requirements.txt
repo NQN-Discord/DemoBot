@@ -1,0 +1,3 @@
+pydevd-pycharm~=193.6494.30
+sentry-sdk==0.14.1
+PyYAML
